@@ -1,2 +1,5 @@
 # silicon-roblox-downloader
-Download ARM Version of Roblox Mac
+Script to Download ARM Version of Roblox Mac
+## How?
+Download `installer.command`
+Double click to open it
