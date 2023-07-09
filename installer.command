@@ -30,4 +30,4 @@ else
   exit 1
 fi
 
-wget $download_url
+wget -P ~/Downloads $download_url
